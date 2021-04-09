@@ -10,4 +10,4 @@ https://www.twitch.tv/apollographql/schedule
 * Author-related fields need to be included with the new post 
 payload when the subscription is resolved 
 
-![IMAGE SCHEMA ](https://github.com/dangolbeeker/images/graphs.png)
+![IMAGE SCHEMA ](https://github.com/dangolbeeker/Live-Blog/images/graphs.png)
